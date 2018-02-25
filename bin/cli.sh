@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source ./bin/config.cfg
+source ./bin/config/var.conf
 
 CMD=$1
 
